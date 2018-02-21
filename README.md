@@ -1,5 +1,5 @@
 # SWGOH Script Repository
-This repository contains scripts for Star Wars(TM): Galaxy Of Heroes.
+This repository contains scripts for Star Wars<sup>TM</sup>: Galaxy Of Heroes.
 
 ### Prerequisites
 ```
@@ -12,7 +12,7 @@ The Python swgohEnergy.py script syntax is following:
 swgohEnergy(.py) energyType actualEnergy hoursToRefill
 ```
 
-Note: following examples are given for Windows OS with Python 3.6.0
+*Note: following examples are given for Windows OS with Python 3.6.0*
 
 Lets say you have 121 normal energy and 5 hours till your energy refill:
 ```
