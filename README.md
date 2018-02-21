@@ -28,7 +28,7 @@ python swgohEnergy.py c 99 3
 * [Python 3.6.0](https://docs.python.org/3/)
 
 ## Contributing
-Please read [CONTRIBUTING.md](ithub.com/botisko/SWGOH/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/botisko/SWGOH/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 * **Jan Bijota** - *Initial work* - [SWGOH](https://github.com/botisko/SWGOH/)
