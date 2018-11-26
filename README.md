@@ -1,12 +1,14 @@
-# SWGOH Script Repository
+# REPO ARCHIVED
+=============================
+## SWGOH Script Repository
 This repository contains scripts for Star Wars<sup>TM</sup>: Galaxy Of Heroes.
 
-### Prerequisites
+#### Prerequisites
 ```
 Python >= 3.6.0
 ```
 
-### Running
+#### Running
 The Python swgohEnergy.py script syntax is following:
 ```
 swgohEnergy(.py) energyType actualEnergy hoursToRefill
@@ -24,13 +26,13 @@ Another example can be that you have 99 cantina energy and 3 hours till your can
 python swgohEnergy.py c 99 3
 ```
 
-## Written In
+### Written In
 * [Python 3.6.0](https://docs.python.org/3/)
 
-## Contributing
+### Contributing
 Please read [CONTRIBUTING.md](https://github.com/botisko/SWGOH/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
-* **Jan Bijota** - *Initial work* - [SWGOH](https://github.com/botisko/SWGOH/)
+### Authors
+* **botisko** - *Initial work* - [SWGOH](https://github.com/botisko/SWGOH/)
 
 See also the list of [contributors](https://github.com/botisko/SWGOH/contributors) who participated in this project.
